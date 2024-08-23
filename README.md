@@ -1,4 +1,4 @@
-# LEARNING WITH ERRORS CRYPTOGRAPHY IN THE ARDUINO UNO
+# Learning With Errors Cryptography in Arduino Uno Assembly
 
 ## Objective
 The primary goal of this project is to explore and implement a cryptographic cipher based on the Learning with Errors (LWE) problem, particularly in the context of low processing power environments such as the Arduino Uno. This project aims to delve into the fundamentals of LWE cryptography, which is grounded in lattice problems assumed to be hard in the worst case, making it a robust candidate for post-quantum cryptographic systems.
